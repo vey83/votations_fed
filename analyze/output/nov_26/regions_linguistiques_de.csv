@@ -1,13 +1,17 @@
-Abstimmung,Sprachregion,Ja (%),Nein (%)
-AHV-Finanzierung (MWST),Deutschschweiz,50.2,49.8
-AHV-Finanzierung (MWST),Romandie,50.1,49.9
-AHV-Finanzierung (MWST),Italienische Schweiz,50.5,49.5
-Ehepaarbesteuerung,Deutschschweiz,49.2,50.8
-Ehepaarbesteuerung,Romandie,50.7,49.3
-Ehepaarbesteuerung,Italienische Schweiz,55.5,44.5
-Feuerwerk-Initiative,Deutschschweiz,26.5,73.5
-Feuerwerk-Initiative,Romandie,29.4,70.6
-Feuerwerk-Initiative,Italienische Schweiz,31.1,68.9
-Kriegsmaterial-Export,Deutschschweiz,49.1,50.9
-Kriegsmaterial-Export,Romandie,49.7,50.3
-Kriegsmaterial-Export,Italienische Schweiz,49.8,50.2
+Sprachregion,Ja (%),Nein (%)
+AHV-Finanzierung (MWST)
+Deutschschweiz,50.2,49.8
+Romandie,50.1,49.9
+Italienische Schweiz,50.5,49.5
+Ehepaarbesteuerung
+Deutschschweiz,49.2,50.8
+Romandie,50.7,49.3
+Italienische Schweiz,55.5,44.5
+Feuerwerk-Initiative
+Deutschschweiz,26.5,73.5
+Romandie,29.4,70.6
+Italienische Schweiz,31.1,68.9
+Kriegsmaterial-Export
+Deutschschweiz,49.1,50.9
+Romandie,49.7,50.3
+Italienische Schweiz,49.8,50.2

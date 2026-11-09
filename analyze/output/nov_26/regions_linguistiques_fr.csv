@@ -1,13 +1,17 @@
-Votation,Région,Oui (%),Non (%)
-Financement de l'AVS (TVA),Suisse alémanique,50.2,49.8
-Financement de l'AVS (TVA),Suisse romande,50.1,49.9
-Financement de l'AVS (TVA),Suisse italophone,50.5,49.5
-Imposition des couples mariés,Suisse alémanique,49.2,50.8
-Imposition des couples mariés,Suisse romande,50.7,49.3
-Imposition des couples mariés,Suisse italophone,55.5,44.5
-Limitation des feux d'artifice,Suisse alémanique,26.5,73.5
-Limitation des feux d'artifice,Suisse romande,29.4,70.6
-Limitation des feux d'artifice,Suisse italophone,31.1,68.9
-Exportation de matériel de guerre,Suisse alémanique,49.1,50.9
-Exportation de matériel de guerre,Suisse romande,49.7,50.3
-Exportation de matériel de guerre,Suisse italophone,49.8,50.2
+Région,Oui (%),Non (%)
+Financement de l'AVS (TVA)
+Suisse alémanique,50.2,49.8
+Suisse romande,50.1,49.9
+Suisse italophone,50.5,49.5
+Imposition des couples mariés
+Suisse alémanique,49.2,50.8
+Suisse romande,50.7,49.3
+Suisse italophone,55.5,44.5
+Limitation des feux d'artifice
+Suisse alémanique,26.5,73.5
+Suisse romande,29.4,70.6
+Suisse italophone,31.1,68.9
+Exportation de matériel de guerre
+Suisse alémanique,49.1,50.9
+Suisse romande,49.7,50.3
+Suisse italophone,49.8,50.2
