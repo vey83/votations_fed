@@ -1,5 +1,4 @@
-Région linguistique,Oui (%),Non (%),Voix Oui,Voix Non,Total voix valables,Communes dépouillées
-Romanche,53.7,46.3,86828,74891,161719,15
-Italien,50.1,49.9,560378,558595,1118973,115
-Allemand,49.5,50.5,6860901,6999802,13860703,1369
-Français,48.9,51.1,2833605,2964402,5798007,606
+Region_FR,Region_DE,Region_IT,Oui (%),Non (%)
+Suisse alémanique,Deutschschweiz,Svizzera tedesca,49.5,50.5
+Suisse romande,Romandie,Svizzera romanda,48.9,51.1
+Suisse italophone,Italienische Schweiz,Svizzera italiana,50.1,49.9
